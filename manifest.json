@@ -1,41 +1,20 @@
 {
-
-  "name": "Seebatore FM Tamil",
-
-  "short_name": "Seebatore FM",
-
-  "start_url": "/",
-
+  "name": "Seebatore Tamil FM",
+  "short_name": "Seebatore",
+  "start_url": "https://www.seebatore.com/",
   "display": "standalone",
-
-  "background_color": "#000000",
-
-  "theme_color": "#e53935",
-
-  "orientation": "portrait",
-
+  "background_color": "#ffffff",
+  "theme_color": "#ff0000",
   "icons": [
-
     {
-
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiegWCmfkeh4N6gq6SNH5M6mCeZQdMJXENnVwJB-ZKfCrKyq3uJn_ZQEX0Qr8Rzx38Ti3WefdoLuDwEEd056w2cxVjvfRM18PUHxnWZUrmilE2jbJDuEvRWtwLTKYWIAtuTd5lWpsThyU-g2KmavI6ugm5sWoVBbI-C-5w-hyZulTNDQTLeoQzUix8kqLc=s150",
-
+      "src": "https://punniyaseelan90.github.io/seebatore-pwa/icons/icon-192.png",
       "sizes": "192x192",
-
       "type": "image/png"
-
     },
-
     {
-
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiegWCmfkeh4N6gq6SNH5M6mCeZQdMJXENnVwJB-ZKfCrKyq3uJn_ZQEX0Qr8Rzx38Ti3WefdoLuDwEEd056w2cxVjvfRM18PUHxnWZUrmilE2jbJDuEvRWtwLTKYWIAtuTd5lWpsThyU-g2KmavI6ugm5sWoVBbI-C-5w-hyZulTNDQTLeoQzUix8kqLc=s150",
-
+      "src": "https://punniyaseelan90.github.io/seebatore-pwa/icons/icon-512.png",
       "sizes": "512x512",
-
       "type": "image/png"
-
     }
-
   ]
-
 }
