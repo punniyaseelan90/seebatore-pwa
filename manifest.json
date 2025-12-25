@@ -1,0 +1,41 @@
+{
+
+  "name": "Seebatore FM Tamil",
+
+  "short_name": "Seebatore FM",
+
+  "start_url": "/",
+
+  "display": "standalone",
+
+  "background_color": "#000000",
+
+  "theme_color": "#e53935",
+
+  "orientation": "portrait",
+
+  "icons": [
+
+    {
+
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiegWCmfkeh4N6gq6SNH5M6mCeZQdMJXENnVwJB-ZKfCrKyq3uJn_ZQEX0Qr8Rzx38Ti3WefdoLuDwEEd056w2cxVjvfRM18PUHxnWZUrmilE2jbJDuEvRWtwLTKYWIAtuTd5lWpsThyU-g2KmavI6ugm5sWoVBbI-C-5w-hyZulTNDQTLeoQzUix8kqLc=s150",
+
+      "sizes": "192x192",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiegWCmfkeh4N6gq6SNH5M6mCeZQdMJXENnVwJB-ZKfCrKyq3uJn_ZQEX0Qr8Rzx38Ti3WefdoLuDwEEd056w2cxVjvfRM18PUHxnWZUrmilE2jbJDuEvRWtwLTKYWIAtuTd5lWpsThyU-g2KmavI6ugm5sWoVBbI-C-5w-hyZulTNDQTLeoQzUix8kqLc=s150",
+
+      "sizes": "512x512",
+
+      "type": "image/png"
+
+    }
+
+  ]
+
+}
